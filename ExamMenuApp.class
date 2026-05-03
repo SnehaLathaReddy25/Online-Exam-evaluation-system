@@ -1,0 +1,10 @@
+Êþº¾
+public class ExamMenuApp
+Methods: main, showMenu, addStudent, viewResults, updateStudent, deleteStudent
+Database: exam_db
+Table: students
+Columns: id, student_name, roll_number, subject, marks, exam_date
+Driver: com.mysql.cj.jdbc.Driver
+Connection: jdbc:mysql://localhost:3306/exam_db
+Username: root
+Password: root
